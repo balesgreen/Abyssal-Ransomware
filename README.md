@@ -23,7 +23,7 @@ Um exemplo deste tipo de malware é o Arhiveus-A, que compacta arquivos no compu
 
 Diferentemente dos trojans, os ransomwares não permitem acesso externo ao computador infectado. A maioria é criada com propósitos comerciais. São geralmente, e com certa facilidade, detectados por antivírus, pois costumam gerar arquivos criptografados de grande tamanho, embora alguns possuam opções que escolhem inteligentemente quais pastas criptografar ou, então, permitem que o atacante escolha quais as pastas de interesse.
 
-/
+/*/*/
 
 # What is a Ransomware? - EN-US
 
